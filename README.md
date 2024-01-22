@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdoCooder
 - 👀 I’m interested in Android app development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on my End of studies project (ESP)
-- 📫 How to reach me ...  Instagram (abdo.ben.ajiba) Email (abdocooder@gmail.com)
+- 📫 How to reach me ...  Instagram (abdo.ben.ajiba) Email (abdocooder@gmail.com) or (abdelkaderbenwork@gmail.com)
