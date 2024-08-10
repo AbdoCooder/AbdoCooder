@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm AbdoCooder</h1>
 <h3 align="center">A passionate developer from Morocco with a focus on Android and Kotlin</h3>
+
 🔭 I’m currently working on improving my skills and building exciting Android apps.
 
 🌱 I’m learning Android through the Android Basics with Compose course.
