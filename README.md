@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm AbdoCooder</h1>
-<h3 align="center">A passionate developer from Morocco with a focus on Android and Kotlin</h3>
+<h3 align="center">A passionate developer from Morocco with a focus on C/C++ programming</h3>
 
-🔭 I’m currently working on improving my skills and building exciting Android apps.
+🔭 I’m currently working on improving my skills and building exciting and efictive Algorithms.
 
-🌱 I’m learning Android through the Android Basics with Compose course.
+🌱 I’m learning C through the 42 cursus in 1337 Coding School.
 
-👯 I’m aiming to deepen my understanding of Kotlin & Android Development.
+👯 I’m aiming to deepen my understanding of the basic concepts of programming to build a strong base and portfolio.
 
 🤝 I’m looking for mentorship and guidance on my learning journey.
 
