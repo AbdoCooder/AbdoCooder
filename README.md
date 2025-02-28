@@ -68,9 +68,18 @@
 </p>
 
 
+---
 
-![AbdoCooder's Stats](https://github-readme-stats.vercel.app/api?username=AbdoCooder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## GitHub Stats 📈
 
-![AbdoCooder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdoCooder&theme=vue-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdoCooder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="AbdoCooder's Stats" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoCooder&theme=tokyonight&hide_border=false" alt="AbdoCooder's Streak" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoCooder&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="AbdoCooder's Top Languages" width="400"/>
+</p>
 
-![AbdoCooder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoCooder&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+---
