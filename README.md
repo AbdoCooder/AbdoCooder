@@ -66,3 +66,11 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS80OChMU7lMUMwU7CVu4ZJl1irvee4jmFfjw&s" alt="xd" width="40" height="40"/>
   </a>
 </p>
+
+
+
+![AbdoCooder's Stats](https://github-readme-stats.vercel.app/api?username=AbdoCooder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![AbdoCooder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdoCooder&theme=vue-dark&hide_border=true)
+
+![AbdoCooder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoCooder&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
